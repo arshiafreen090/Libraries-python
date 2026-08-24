@@ -30,7 +30,7 @@ This repository contains a collection of Jupyter Notebooks exploring the core li
 - **Titanic:** Passenger data for distribution and survival analysis.
 - **Gapminder:** Global development data for time-series and faceted scatter plots.
 - **Iris:** Flower measurements for matrix clustering.
-> **Note:** You can download the complete dataset given in the repo ``Dataset_colab``
+> **Note:** You can download the complete dataset from ``Datasets_colab``, just click this file and click on view raw, the zip file will automatically download in your pc >_<
 
 ## How to Use
 1. Clone the repository.
